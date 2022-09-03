@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **A Note App**
 
-- 🌱 I’m currently learning **React Js, Python**
+- 🌱 I’m currently learning **Python**
 
 - 🤝 I’m looking for help with **Remote Jobs**
 
