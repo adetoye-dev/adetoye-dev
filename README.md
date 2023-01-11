@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/adetoye-dev/adetoye-dev/blob/main/20220901_2148011.gif)](https://adetoye.vercel.app)
 
 <h1 align="center">Hi 👋, I'm Adetoye</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">Front-End Developer | Open-Source Ethusiast | Utilizing my skills to create functional and visually appealing web applications. </h3>
 
 - 👨‍💻 All of my projects are available at [https://adetoye.vercel.app](https://adetoye.vercel.app)
 
