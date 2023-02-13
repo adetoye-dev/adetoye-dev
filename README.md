@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **adetoyeadewoye@gmail.com**
 
+- View all my link at: [https://linkfree.eddiehub.io/adetoye-dev](https://linkfree.eddiehub.io/adetoye-dev)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/adetoyedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adetoyedev" height="30" width="40" /></a>
