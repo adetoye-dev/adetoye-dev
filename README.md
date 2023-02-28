@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adetoye-dev&show_icons=true&locale=en" alt="adetoye-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adetoye-dev&" alt="adetoye-dev" /></p>
+
+[![Adetoye's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=adetoye-dev&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
