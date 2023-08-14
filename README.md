@@ -1,7 +1,7 @@
-[![MasterHead](https://github.com/adetoye-dev/adetoye-dev/blob/main/20220901_2148011.gif)](https://adetoye.vercel.app)
+[![MasterHead](https://github.com/adetoye-dev/adetoye-dev/assets/71382301/c3df2201-f7b4-421f-820e-64cbe3982acd)](https://adetoye.vercel.app)
 
 <h1 align="center">Hi 👋, I'm Adetoye</h1>
-<h3 align="center">Front-End Developer | Open-Source Ethusiast | Utilizing my skills to create functional and visually appealing web applications. </h3>
+<h3 align="center">Software Developer | Open-Source Enthusiast | Solving business problems through code. One line at a tie. </h3>
 
 - 👨‍💻 View my portfolio at [https://adetoye.vercel.app](https://adetoye.vercel.app)
 
