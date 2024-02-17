@@ -1,13 +1,13 @@
 [![MasterHead](https://github.com/adetoye-dev/adetoye-dev/assets/71382301/c3df2201-f7b4-421f-820e-64cbe3982acd)](https://adetoye.vercel.app)
 
 <h1 align="center">Hi 👋, I'm Adetoye</h1>
-<h3 align="center">Software Developer | Open-Source Enthusiast | Solving business problems through code. One line at a tie. </h3>
+<h3 align="center">Software Developer | Open-Source Enthusiast | Solving business problems through code. One line at a time. </h3>
 
 - 👨‍💻 View my portfolio at [https://adetoye.vercel.app](https://adetoye.vercel.app)
 
 - 📫 How to reach me **adetoyeadewoye@gmail.com**
 
-- View all my link at: [https://linkfree.eddiehub.io/adetoye-dev](https://linkfree.eddiehub.io/adetoye-dev)
+- View all my links at: [https://linkfree.eddiehub.io/adetoye-dev](https://linkfree.eddiehub.io/adetoye-dev)
 
 - Buy me a coffee: [https://www.buymeacoffee.com/adetoye](https://www.buymeacoffee.com/adetoye)
 
